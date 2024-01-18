@@ -8,7 +8,7 @@ use Illuminate\Http\Request;
 use App\Models\Planet;
 use Illuminate\Support\Facades\DB;
 
-class CreatePlanetController extends Controller
+class PlanetController extends Controller
 {
 
     public function index()
